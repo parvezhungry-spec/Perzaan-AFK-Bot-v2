@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "null",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "Welcome to the server! Good luck, have fun!",
+        "Someone is watching…",
+        "Have fun and don't forget to touch grass",
       ]
     },
     "chat-log": true,
